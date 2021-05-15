@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/snaptrude/static/js/main.173743cd.chunk.js",
-    "main.js.map": "/snaptrude/static/js/main.173743cd.chunk.js.map",
-    "runtime-main.js": "/snaptrude/static/js/runtime-main.93e69669.js",
-    "runtime-main.js.map": "/snaptrude/static/js/runtime-main.93e69669.js.map",
-    "static/js/2.cf788330.chunk.js": "/snaptrude/static/js/2.cf788330.chunk.js",
-    "static/js/2.cf788330.chunk.js.map": "/snaptrude/static/js/2.cf788330.chunk.js.map",
-    "index.html": "/snaptrude/index.html",
-    "static/js/2.cf788330.chunk.js.LICENSE.txt": "/snaptrude/static/js/2.cf788330.chunk.js.LICENSE.txt"
+    "main.js": "/Snaptrude-Assesment/static/js/main.173743cd.chunk.js",
+    "main.js.map": "/Snaptrude-Assesment/static/js/main.173743cd.chunk.js.map",
+    "runtime-main.js": "/Snaptrude-Assesment/static/js/runtime-main.6c5893c7.js",
+    "runtime-main.js.map": "/Snaptrude-Assesment/static/js/runtime-main.6c5893c7.js.map",
+    "static/js/2.cf788330.chunk.js": "/Snaptrude-Assesment/static/js/2.cf788330.chunk.js",
+    "static/js/2.cf788330.chunk.js.map": "/Snaptrude-Assesment/static/js/2.cf788330.chunk.js.map",
+    "index.html": "/Snaptrude-Assesment/index.html",
+    "static/js/2.cf788330.chunk.js.LICENSE.txt": "/Snaptrude-Assesment/static/js/2.cf788330.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93e69669.js",
+    "static/js/runtime-main.6c5893c7.js",
     "static/js/2.cf788330.chunk.js",
     "static/js/main.173743cd.chunk.js"
   ]
